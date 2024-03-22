@@ -11,8 +11,8 @@
     "bot"
   ],
   "success_url": "https://t.me/DForDarkAngel",
-  "website": "https://github.com/SadKidBGMZ/fwdbot",
-  "repository": "https://github.com/SadKidBGMZ/fwdbot",
+  "website": "https://github.com/Ranjan098/Jisshu-forward-bott",
+  "repository": "https://github.com/Ranjan098/Jisshu-forward-bott",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGSBot",
